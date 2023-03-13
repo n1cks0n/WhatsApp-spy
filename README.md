@@ -1,5 +1,4 @@
-# WhatsApp-spy
-WhatsApp spy - logs online/offline events from ANYONE in the world
+# WhatsApp OSINT Tool
 
 ## TikTok Tutorial (Spanish)
 
@@ -28,7 +27,7 @@ pip install -r requirements.txt
 # How to Run
 
 ```
-python3 whatsappbeacon.py --username username_to_track --language "language_code"
+python3 whatsappbeacon.py --username <username_to_track> --language "<language_code>"
 ```
 
 where language_code is either 'en' or 'es' for English and Spanish languages. Future language support will be added.
@@ -37,4 +36,4 @@ where language_code is either 'en' or 'es' for English and Spanish languages. Fu
 
 This tool was developed by myself in my free time. It's a tool that demonstrates the power of Selenium and web scraping. I don't endorse using this tool for stalking people or any other fraudulent purposes. If you have suggestions on how to expand or improve the functionality, please submit a PR and I'll gladly review changes
 
-[n1cks0n](https://github.com/n1cks0n)
+[jasperan](https://github.com/jasperan)
