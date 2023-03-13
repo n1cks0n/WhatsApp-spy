@@ -27,9 +27,11 @@ pip install -r requirements.txt
 # How to Run
 
 ```
-python3 whatsappbeacon.py --username <username_to_track> --language "<language_code>"
+Linux: python3 whatsappbeacon.py --username "username_to_track" --language "language_code"
 ```
-
+```
+On windows: python whatsappbeacon.py --username "username_to_track" --language "language_code"
+```
 where language_code is either 'en' or 'es' for English and Spanish languages. Future language support will be added.
 
 # Credits
