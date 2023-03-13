@@ -1,4 +1,4 @@
-# WhatsApp OSINT Tool
+# WhatsApp Spy Tool
 
 ## TikTok Tutorial (Spanish)
 
@@ -36,4 +36,4 @@ where language_code is either 'en' or 'es' for English and Spanish languages. Fu
 
 This tool was developed by myself in my free time. It's a tool that demonstrates the power of Selenium and web scraping. I don't endorse using this tool for stalking people or any other fraudulent purposes. If you have suggestions on how to expand or improve the functionality, please submit a PR and I'll gladly review changes
 
-[jasperan](https://github.com/jasperan)
+[n1cks0n](https://github.com/n1cks0n)
